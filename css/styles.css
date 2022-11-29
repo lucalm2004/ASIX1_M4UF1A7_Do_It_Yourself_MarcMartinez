@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+body{
+    font-family: 'Patrick Hand', cursive;
+    margin: 0;
+    background-color: black;
+    color: white;
+
+}
+
+#header{
+    height: 100vh;
+    background-image: url('../img/Fast\ and\ furious\ 9.jpeg');
+    background-position: center;
+    background-size: cover;
+}
+
+#header h1{
+    color: white;
+    margin: 0;
+    padding: 0 20%;
+    font-size: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#main{
+    padding-left: 20%;
+    padding-right: 20%;
+
+}
+
+#main p{
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+img{
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h2{
+    padding-left: 10%;
+
+}
+
+#reparto{
+    padding: 0;
+}
+
